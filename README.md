@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there  frinds👋
 
 <!--
 **neutr0n420/neutr0n420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
