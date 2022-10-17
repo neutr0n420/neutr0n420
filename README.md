@@ -18,6 +18,7 @@
 ![](https://activity-graph.herokuapp.com/graph?username=neutr0n420&theme=react-dark&hide_border=true&area=true)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=neutr0n420&theme=dark" width="48%" >
 <img src="https://github-readme-stats.vercel.app/api?username=neutr0n420&count_private=true&show_icons=true&theme=light" alt="Aryan's github stats"/>
+## Holopin Badges
 [![@neutr0n420's Holopin board](https://holopin.me/neutr0n420)](https://holopin.io/@neutr0n420)
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neutr0n420&theme=dark" /> -->
